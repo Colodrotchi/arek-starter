@@ -1,6 +1,7 @@
 import React, {Component} from 'react'
 import styled from 'styled-components'
 import ReactButton from 'components/ReactButton'
+import CounterButton from 'components/CounterButton'
 import ReduxButton from 'components/ReduxButton'
 import StyledComponentsButton from 'components/StyledComponentsButton'
 import ReactRouterButton from 'components/ReactRouterButton'
@@ -24,6 +25,7 @@ export default class Main extends Component {
 			<Wrapper>
 				<ButtonWrapper>
 					<ReactButton />
+					<CounterButton />
 					<ReduxButton />
 					<ReactRouterButton />
 					<StyledComponentsButton />

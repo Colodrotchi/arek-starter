@@ -32,6 +32,7 @@
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
     "react-apollo": "^1.4.15",
+    "react-count": "^0.2.4",
     "react-dom": "^15.5.4",
     "react-dom-confetti": "^0.0.7",
     "react-hot-loader": "^3.0.0-beta.7",
